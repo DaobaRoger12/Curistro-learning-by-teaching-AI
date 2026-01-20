@@ -1,10 +1,6 @@
 # Curistro - AI-Powered Learn-by-Teaching Platform
 
 <p align="center">
-  <strong>🎓 Teach a Curious AI Student to Master Any Concept</strong>
-</p>
-
-<p align="center">
   <em>An innovative educational tool based on the "Learning by Teaching" methodology, powered by OpenAI</em>
 </p>
 
@@ -139,34 +135,12 @@ client = OpenAI(api_key=api_key, base_url="https://your-api-endpoint/v1")
 
 Curistro is built on several evidence-based learning principles:
 
-1. **Protégé Effect** - Students learn better when they teach others
+1. **Feynman Technique** - Students learn better when they teach others
 2. **Active Recall** - Explaining forces you to retrieve information
 3. **Elaborative Interrogation** - Answering "why" questions deepens understanding
 4. **Diagnostic Assessment** - Multi-dimensional quizzes identify knowledge gaps
 5. **Targeted Remediation** - Adaptive recaps focus on weak areas
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- OpenAI for the powerful language models
-- D3.js for knowledge map visualization
-- The "Learning by Teaching" research community
-
----
-
-<p align="center">
-  <strong>Learn better by teaching. Start your session today! 🚀</strong>
-</p>
